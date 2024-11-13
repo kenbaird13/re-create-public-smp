@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "b1b1296779911ae88e6d82d18bccca14d03dde84ea0730200587b24cb82257fb"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "294ca3776eaeb789c00f92cbaaecd7e3ed683288cc9da114868e1a802b7319c1"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "02299ab989dc0e8c04b4e3d0b4c68023c71095fed6d3944d881cf1c22db9e6d7"
 metafile = true
@@ -538,6 +546,11 @@ metafile = true
 [[files]]
 file = "mods/ledger.pw.toml"
 hash = "84defc8f8116d5c0e4210934ed1f555641a1db71b767fa4beddee21c47118868"
+metafile = true
+
+[[files]]
+file = "mods/liquid-burner.pw.toml"
+hash = "a9cc8ca630a6e275d4df79ff1b14a4a60d7d0da4f7b9ebc10d9c26ddf1e68de8"
 metafile = true
 
 [[files]]
