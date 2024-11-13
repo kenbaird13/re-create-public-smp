@@ -1,0 +1,13 @@
+name = "Panoramics"
+filename = "panoramics-1.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/kXUIkrD8/versions/GgfP4OOZ/panoramics-1.0.1.jar"
+hash-format = "sha1"
+hash = "c0e12d2ec53fc48ef25a40189ae980841cc5f0ea"
+
+[update]
+[update.modrinth]
+mod-id = "kXUIkrD8"
+version = "GgfP4OOZ"

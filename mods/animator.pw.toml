@@ -1,0 +1,13 @@
+name = "animator"
+filename = "animation-1.0.0.13-1.20.1-release.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WFDSXy17/versions/OnfUttxR/animation-1.0.0.13-1.20.1-release.jar"
+hash-format = "sha1"
+hash = "4e8ce7861eaae9459f8d5d60e71df07499c4c7f7"
+
+[update]
+[update.modrinth]
+mod-id = "WFDSXy17"
+version = "OnfUttxR"

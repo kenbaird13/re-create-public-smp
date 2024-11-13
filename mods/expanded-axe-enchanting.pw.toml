@@ -1,0 +1,13 @@
+name = "Expanded Axe Enchanting"
+filename = "expanded-axe-enchanting-1.0.7.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/nmJ9dZtI/versions/docFqSvE/expanded-axe-enchanting-1.0.7.jar"
+hash-format = "sha1"
+hash = "c382d0849c54d4527d4981b5c45f0980414e1c2d"
+
+[update]
+[update.modrinth]
+mod-id = "nmJ9dZtI"
+version = "docFqSvE"

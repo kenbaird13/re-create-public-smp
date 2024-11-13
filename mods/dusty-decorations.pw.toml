@@ -1,0 +1,13 @@
+name = "Dusty Decorations"
+filename = "DustyDecoRefabricated-1.1-1.20.1+1.20.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KgFOuaiZ/versions/5YYQCnC1/DustyDecoRefabricated-1.1-1.20.1%2B1.20.2.jar"
+hash-format = "sha1"
+hash = "f60374a3c72d80dd186034fa02cea08594408958"
+
+[update]
+[update.modrinth]
+mod-id = "KgFOuaiZ"
+version = "5YYQCnC1"

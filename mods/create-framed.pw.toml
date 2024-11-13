@@ -1,0 +1,13 @@
+name = "Create: Framed"
+filename = "createframed-1.5.4+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/15fFZ3f4/versions/3BTYdc9A/createframed-1.5.4%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "9cedad6eeab7a4f805d80153518994140c3c39d1"
+
+[update]
+[update.modrinth]
+mod-id = "15fFZ3f4"
+version = "3BTYdc9A"
