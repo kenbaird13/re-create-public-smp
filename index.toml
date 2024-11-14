@@ -542,7 +542,7 @@ metafile = true
 
 [[files]]
 file = "mods/liquid-burner.pw.toml"
-hash = "a9cc8ca630a6e275d4df79ff1b14a4a60d7d0da4f7b9ebc10d9c26ddf1e68de8"
+hash = "22d91ca96b26d5c70e68f263aba1f1ebb2d2389c8c493da310851ed341e157ff"
 metafile = true
 
 [[files]]
