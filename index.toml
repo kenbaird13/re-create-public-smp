@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "b1b1296779911ae88e6d82d18bccca14d03dde84ea0730200587b24cb82257fb"
+hash = "ca8e1c8ec5df6a1a288f1a1248cabd195f115b7b58ae3dddd7619c439a11dbca"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "294ca3776eaeb789c00f92cbaaecd7e3ed683288cc9da114868e1a802b7319c1"
+hash = "64b0d2a8540f800e490fa89468521ca17e363ffb6a136672c6fa6622125f170a"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
