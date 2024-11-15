@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "ca8e1c8ec5df6a1a288f1a1248cabd195f115b7b58ae3dddd7619c439a11dbca"
+hash = "b1b1296779911ae88e6d82d18bccca14d03dde84ea0730200587b24cb82257fb"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "64b0d2a8540f800e490fa89468521ca17e363ffb6a136672c6fa6622125f170a"
+hash = "294ca3776eaeb789c00f92cbaaecd7e3ed683288cc9da114868e1a802b7319c1"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -86,11 +86,6 @@ metafile = true
 [[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "16ecba67eb9be7b90c959b7c2fb51bc02aebabec02e22ac7afb1149559a9496b"
-metafile = true
-
-[[files]]
-file = "mods/better-beds.pw.toml"
-hash = "0bf7fa5d6e5b126e110699e85c64b4d86a1d4171d17adfc994936e6f62b81083"
 metafile = true
 
 [[files]]
@@ -676,6 +671,11 @@ metafile = true
 [[files]]
 file = "mods/rechiseled.pw.toml"
 hash = "a8e48a0dadfaa8492f5e46ed3555dcaa2f6cb15bf7b7819fef018ec3e60d3706"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "0f9916dcded3aac68d56113e9617bbe3db5ec9036bd9bba784bc40a961b0c9f0"
 metafile = true
 
 [[files]]
