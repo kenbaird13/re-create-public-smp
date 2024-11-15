@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/bclib/client.json"
+hash = "63a42c086b9ee3362275d723b30e7947e14867a4647107a8157cb7b52a1fe913"
+
+[[files]]
 file = "config/defaultoptions/keybindings.txt"
 hash = "b1b1296779911ae88e6d82d18bccca14d03dde84ea0730200587b24cb82257fb"
 
@@ -9,8 +13,36 @@ file = "config/defaultoptions/options.txt"
 hash = "294ca3776eaeb789c00f92cbaaecd7e3ed683288cc9da114868e1a802b7319c1"
 
 [[files]]
+file = "config/railways-common.toml"
+hash = "64fc2067a82f7469f9e34ab420083f7a34fe195e3ccd2a65dcbcc5aa5296e929"
+
+[[files]]
+file = "config/railways-server.toml"
+hash = "8bb806db99040ea909537e1baa2c4621f136f4f85d15e2174cbe1754c62f66d8"
+
+[[files]]
+file = "config/servercore/config.yml"
+hash = "f4fa920033ab6ebf5a6021fb26d438fc0b6fbba2d9eb3011ba4ac71aee6d8abc"
+
+[[files]]
+file = "config/servercore/optimizations.yml"
+hash = "fbb29b9bf5d8f90f58568cfae7f85220d84465d78d6a4dcbfbe3c15ffd172f8d"
+
+[[files]]
+file = "config/sophisticatedbackpacks-server.toml"
+hash = "036067e3eb54deef17dd3c37db368ee488b2dc1b023fbe4d955a3aebf2515e1f"
+
+[[files]]
+file = "config/stoneworks-common.toml"
+hash = "6080a05cd098b77c4309c967b3ddb55e22aa3386a01d5feda680f312f6cbeaae"
+
+[[files]]
+file = "config/veinmining-server.toml"
+hash = "5671b14f39b98e244cef44d6b4230a51893940fe7dce62cc64c66c1306ca54e5"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "02299ab989dc0e8c04b4e3d0b4c68023c71095fed6d3944d881cf1c22db9e6d7"
+hash = "b6e66f4a33e23324b165d3794bf3ec1efeac3f5333f8f2cee79df76dcf43455f"
 metafile = true
 
 [[files]]
@@ -225,7 +257,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-garnished.pw.toml"
-hash = "4c20a20db82212e182c50d19ae97de015ccb6ab0387a25d77ed7c5e61170fd2d"
+hash = "d3bedda11400a8bdd6514d3972a8ffabd3cbf44699e6c3f7c15c39f8d319be2f"
 metafile = true
 
 [[files]]
@@ -660,7 +692,7 @@ metafile = true
 
 [[files]]
 file = "mods/quad.pw.toml"
-hash = "c28e46ebde8d97c6ac5f222f599601036dfb9db434369ae63159b365f5602bbe"
+hash = "eb1b2eb6daab7b729a8af0cc111469b05200d7fd79f9090c227d365237a05321"
 metafile = true
 
 [[files]]
