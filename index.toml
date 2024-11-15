@@ -289,6 +289,11 @@ hash = "66bfaf23e46a6862f29ad0a95d09ccee0039bfc1f3d5d227956225cdddc0085c"
 metafile = true
 
 [[files]]
+file = "mods/easy-shulker-boxes.pw.toml"
+hash = "c6f6a8198f1e6483dcfb2c7aa4714969c26a018f6c7b2251b7647eef73e969de"
+metafile = true
+
+[[files]]
 file = "mods/ebe.pw.toml"
 hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
 metafile = true
@@ -420,7 +425,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
+hash = "f1dadbb98e8accd56b315598b519c187f5013911369eec3ef8785dccd418166a"
 metafile = true
 
 [[files]]
@@ -650,17 +655,12 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "5dbd17b4eb5a496d819cc5d02c683733735bbdc30cd3cc79d3ad1873a9ec67e4"
+hash = "e67b646a37b34c077b5a99001d22b8eee964320a79c8bb7a83dc25ce851f8457"
 metafile = true
 
 [[files]]
 file = "mods/quad.pw.toml"
 hash = "c28e46ebde8d97c6ac5f222f599601036dfb9db434369ae63159b365f5602bbe"
-metafile = true
-
-[[files]]
-file = "mods/quickshulker.pw.toml"
-hash = "b6c3dbf9a6e4ced00cd9d7ea5c1383b2defcf915327f2bdf9d6752a20aaa6185"
 metafile = true
 
 [[files]]
@@ -696,11 +696,6 @@ metafile = true
 [[files]]
 file = "mods/servercore.pw.toml"
 hash = "182161aa8e4b730555dd9984efb7be8cfd3debbaf1d4cc60e0b3241402e6f2bc"
-metafile = true
-
-[[files]]
-file = "mods/shulkerboxtooltip.pw.toml"
-hash = "5003f2c451c9459b7911ac786897eead4d74a8ebdad4741476949791b26c3caa"
 metafile = true
 
 [[files]]
