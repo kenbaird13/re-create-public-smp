@@ -846,6 +846,16 @@ hash = "cc0a19f55f9f04eb1b593129f81051afe20b119d126d40a5e4b03178a660e164"
 metafile = true
 
 [[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "84286f8d25a8a6f970d3520815fa2ee27f01d0523f95c3f200a899dd39b813c6"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "a96254e7f8a03ab1f22db10ae3c9062017ba7ea74db036bad05b3d37bfb89bd4"
+metafile = true
+
+[[files]]
 file = "mods/yacl.pw.toml"
 hash = "c9c7de97a085db8491f23e01c18300613295bf6da75f7868db3336ea8b93108f"
 metafile = true
