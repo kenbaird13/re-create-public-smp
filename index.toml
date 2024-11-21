@@ -331,11 +331,6 @@ hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
 metafile = true
 
 [[files]]
-file = "mods/effective.pw.toml"
-hash = "52c352ab67527da90d25e2c3be2013fc65f1fdf8f56c16964abf55da4c5f4ac8"
-metafile = true
-
-[[files]]
 file = "mods/emi-loot.pw.toml"
 hash = "91477cf93a41ce754e1dcaf83a778cea12bc33276a4ccf01fe78295ac3d00eb1"
 metafile = true
@@ -363,16 +358,6 @@ metafile = true
 [[files]]
 file = "mods/emitrades.pw.toml"
 hash = "a55d562fcd6be9796e8cc162b83b5745efd83254fae44bf5a4d85d0fe6c97fcb"
-metafile = true
-
-[[files]]
-file = "mods/emotecraft.pw.toml"
-hash = "81293a0aad64a6000ba0b25642341074d7bb369c2f8b5f1dd842fcf7eb4088ec"
-metafile = true
-
-[[files]]
-file = "mods/emotetweaks.pw.toml"
-hash = "35d5ece5f2e43efa041253f309409c64ae6386a2a818d35ad19dec2b5c55b600"
 metafile = true
 
 [[files]]
