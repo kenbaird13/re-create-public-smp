@@ -262,7 +262,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-jetpack.pw.toml"
-hash = "93f8459ef551d239aba91b04529a2fa9bc8fe3630000e1478928e7900b4ae22c"
+hash = "5a6081e7d74cca40fbac91b83e74161c184e9053bbb65e5e500c2293b49a74c2"
 metafile = true
 
 [[files]]
@@ -297,12 +297,12 @@ metafile = true
 
 [[files]]
 file = "mods/diagonal-fences.pw.toml"
-hash = "31a57e97467b2b34997b9594c692c73a414f9587801f3b92b6bef996377bf844"
+hash = "f7a00fedee0f4475b26485b4d533ecc4df9c1224248e6ed44f3160751639e220"
 metafile = true
 
 [[files]]
 file = "mods/diagonal-windows.pw.toml"
-hash = "9fc01e3d81eb0855ac7c5df62355458b4420b6c8161172d702f26489ba8b3ed6"
+hash = "f53127f5487705ab6eea8cd69a663f6d1cabc3d21aacfb0026d177c9842da4e0"
 metafile = true
 
 [[files]]
@@ -372,7 +372,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "4696d57e93e8b5e7f4d16482184cf0fb7b61548e231c5835297671b22255c1ac"
+hash = "cbc6ac7cd925b77d81d59f8f56a8d7bfdf5327570d9778b597760d61d8156e43"
 metafile = true
 
 [[files]]
@@ -452,7 +452,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "f4cd0cd05613983f5a1fbeaf65bb49838550f748eb59d8dd480e7ba26757b15a"
+hash = "ca24bfcd5025839184bf79d63151d9cdafd5c4668a2c6fa3c034fca488e9bb7e"
 metafile = true
 
 [[files]]
@@ -607,7 +607,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "7827b61d9b23c3625fe5425982510891cf3295cda4b51012f4b2eab094cd59d2"
+hash = "535c99368a17ae01f3e58302692820e4ffa231a96e037106bc2efd28c903d924"
 metafile = true
 
 [[files]]
@@ -717,7 +717,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "ce0e74b22a74ff9f8d10b0db7d221f6846044e433119529282e01636e6559854"
+hash = "f42254890af913280ba9713f31986c02660b5f79e3f0869952832e08c5d516c0"
 metafile = true
 
 [[files]]
