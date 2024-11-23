@@ -46,6 +46,11 @@ hash = "b6e66f4a33e23324b165d3794bf3ec1efeac3f5333f8f2cee79df76dcf43455f"
 metafile = true
 
 [[files]]
+file = "mods/alloy-forgery.pw.toml"
+hash = "573bc2adfc72fb395c27c371568f0af20d0e83949637b6cf1b8a555a63814956"
+metafile = true
+
+[[files]]
 file = "mods/almanac.pw.toml"
 hash = "84da114b518ecda7ed4fe0160a7986c2446e55820675016e3630ad87177dc55f"
 metafile = true
@@ -281,6 +286,10 @@ hash = "650bb01ab2e62006652c079d212023a26db63baf6667537c139bec0f17ac44a6"
 metafile = true
 
 [[files]]
+file = "mods/create_balanced_recipes_1.20.1.jar"
+hash = "f38859186d01684f74b4253e6a910f63a9f8e0a325d749d0b0c8bcdd1d088bc0"
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "ef69820ad12ecf123b0d7ca51f3567067133060f1c526d645ca77a410e9a7c1a"
 metafile = true
@@ -417,7 +426,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "8de441dd57379d434805fb87722233fa39e346a9152828e7ff49b0ed9b2bd518"
+hash = "ebd92e07834dae22ebb7340a1112ac20d79869ec12ef5107938f564dee2661d2"
 metafile = true
 
 [[files]]
@@ -626,6 +635,11 @@ hash = "5a38aa2d0be8cf9318beb22ce476f19337dbf68df5f191fc02e7d817202a9b56"
 metafile = true
 
 [[files]]
+file = "mods/mythicmetals.pw.toml"
+hash = "9d72a2126537efbf86ea08ad99994739765b8402e18cad97835931b478b2c584"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
 metafile = true
@@ -648,6 +662,11 @@ metafile = true
 [[files]]
 file = "mods/nyfs-spiders.pw.toml"
 hash = "331450a351fe3099c8bb4522c63d5a2ab063aad3ec29328d9cb7ec40a0a74f44"
+metafile = true
+
+[[files]]
+file = "mods/origins.pw.toml"
+hash = "e7b1fcffc4ab3623898b392685dde6c06256f9a7724bf48e072b16769b5992c7"
 metafile = true
 
 [[files]]
@@ -723,6 +742,11 @@ metafile = true
 [[files]]
 file = "mods/simplefog.pw.toml"
 hash = "1ecb59adbb103f86496203ff3f44a80b18193512e74fd7a367ed06234702059f"
+metafile = true
+
+[[files]]
+file = "mods/simply-swords.pw.toml"
+hash = "53756963029d3281ce1001a6129367541d2e092b34a4bb1cafeff77f3ec28902"
 metafile = true
 
 [[files]]
