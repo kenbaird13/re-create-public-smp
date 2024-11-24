@@ -820,6 +820,11 @@ hash = "526b9f0b2d1128862a05ff3ffc5e039a006571e716daff753821e0f5c768a0c2"
 metafile = true
 
 [[files]]
+file = "mods/terralith.pw.toml"
+hash = "3b61fcf1c80cfdd79282be71ddfa9cce02fc13f8d87a760db455e2a97b801f40"
+metafile = true
+
+[[files]]
 file = "mods/tool-trims.pw.toml"
 hash = "10617ea3b7c98cc38a57220ac9cd801bbbd99a76f56973040a330690f5782333"
 metafile = true
