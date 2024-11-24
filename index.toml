@@ -505,11 +505,6 @@ hash = "31278d67704a56eb32d93c240e4bfd9822e1ab6047ee14d752953dd0c24dca95"
 metafile = true
 
 [[files]]
-file = "mods/interactive.pw.toml"
-hash = "b094e34df4e623024f47c4ed8ca41684f736c2e2c6d4f9504fa2660254e51d66"
-metafile = true
-
-[[files]]
 file = "mods/inventory-management.pw.toml"
 hash = "e181bb57004fede8c736e9183d8645e7db17d965669590575b3cbbc1050075ef"
 metafile = true
@@ -842,11 +837,6 @@ metafile = true
 [[files]]
 file = "mods/untitled-duck-mod.pw.toml"
 hash = "26696882f4f068eea89b437e13a6031f42f3f5a3628c54905679398af7e2125f"
-metafile = true
-
-[[files]]
-file = "mods/valkyrien-skies.pw.toml"
-hash = "acc29f4d30641c8138744b8c15cad479e17c601567de64b19ddb82aff37b3ad1"
 metafile = true
 
 [[files]]
