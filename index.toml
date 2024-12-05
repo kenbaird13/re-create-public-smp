@@ -6,7 +6,8 @@ hash = "63a42c086b9ee3362275d723b30e7947e14867a4647107a8157cb7b52a1fe913"
 
 [[files]]
 file = "mods/recipies_s_s_s-1.0.0-fabric-1.20.1.jar"
-hash = "f5f4bc7bae26666ca54b50f9eb118f3027b556adb6d8f671e980d9718e9346df"
+hash = "F5F4BC7BAE26666CA54B50F9EB118F3027B556ADB6D8F671E980D9718E9346DF"
+metafile = false
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
