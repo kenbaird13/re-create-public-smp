@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/OsZiaDHq/versions/INXBZl4Y/CreativeCore_FABRIC_v2.12.22_mc1.20.1.jar"
-hash-format = "sha256"
-hash = "f18c8d68528363511e4ac0caceea09373fd6d8249152d3eb6332a9650d3cfc15"
+hash-format = "sha1"
+hash = "36dd1279ab01901eba5c48eb62d19e90dcba6e5b"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/GkIc6rRo/versions/15NpMum1/CerbonsAPI-Fabric-1.20.1-1.1.0.jar"
-hash-format = "sha256"
-hash = "e60fd27ace48be97e487079bafeabbcf4eee86707b4b831b21e4f10519bf9ab6"
+hash-format = "sha1"
+hash = "b02aa8137f6807974b2200eeb0856a9462616a4d"
 
 [update]
 [update.modrinth]

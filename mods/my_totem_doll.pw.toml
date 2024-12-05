@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/ygYU16dG/versions/KKArM1Vl/My%20Totem%20Doll-1.0.1%2B1.20.1.jar"
-hash-format = "sha256"
-hash = "962597f00a4aec4ee2f36d411cf8cc66398a7d288194caf63f4f9db1a0998865"
+hash-format = "sha1"
+hash = "878b55f9d9cf1f3885cb81dadbf10f83022edaa4"
 
 [update]
 [update.modrinth]

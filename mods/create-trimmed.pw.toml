@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/zvaHXgQz/versions/Uwi3mNBj/create_trimmed.jar"
-hash-format = "sha256"
-hash = "cf5104b5b6880ea9c9ec0e7d7fc4f1149dfcea8b052f839b86241c1558fe8675"
+hash-format = "sha1"
+hash = "e21797b5af6f3cec0c8f2fd6d3fcf51dca324a2c"
 
 [update]
 [update.modrinth]

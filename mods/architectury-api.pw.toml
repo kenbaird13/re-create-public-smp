@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/lhGA9TYQ/versions/WbL7MStR/architectury-9.2.14-fabric.jar"
-hash-format = "sha256"
-hash = "bd7a7032bedb2ff96c6991a846a44c857336a51442a105f5859017e8ba9d1321"
+hash-format = "sha1"
+hash = "4fa65e32dbf63a871a30fe8ec6fbff9a4b8d007d"
 
 [update]
 [update.modrinth]

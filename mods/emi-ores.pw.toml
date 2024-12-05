@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/sG4TqDb8/versions/DY6srqZU/emi_ores-1.0%2B1.20.1%2Bfabric.jar"
-hash-format = "sha256"
-hash = "091d5a526574d6c7c58dbfc2d328596c404c1efe2ab90d3c7077bad697638a72"
+hash-format = "sha1"
+hash = "b17ce9f4128a2095d502bdad9f0d54be20b7bcb9"
 
 [update]
 [update.modrinth]

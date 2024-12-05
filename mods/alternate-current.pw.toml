@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/r0v8vy1s/versions/ckuIQWvo/alternate-current-mc1.20-1.9.0.jar"
-hash-format = "sha256"
-hash = "cbecb4abf4aa734a7617fa7ad771af118cd06cfac7ea7f26f43e9ff6ef6eb515"
+hash-format = "sha1"
+hash = "f09b6c60556ca329b82d4bdb965dd4f574c0e1e3"
 
 [update]
 [update.modrinth]

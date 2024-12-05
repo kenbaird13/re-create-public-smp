@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/b93awgkg/versions/K3kKkGTK/status-fabric-1.20.1-1.0.6.jar"
-hash-format = "sha256"
-hash = "aa256025a78804e7f1e30182f4f002071aa8c63d5a7efe1f222fe1f95668631b"
+hash-format = "sha1"
+hash = "b89ea08ad34908e61ebcf141518afe67076683fd"
 
 [update]
 [update.modrinth]

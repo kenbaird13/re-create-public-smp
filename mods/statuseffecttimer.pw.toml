@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/T9FDHbY5/versions/DmFWEKhc/statuseffecttimer-1.2.0%2B1.20.jar"
-hash-format = "sha256"
-hash = "2882f4e361aece1555a2b6dfeacfe41fe81b201a9e69a350dd6c7531f9183b89"
+hash-format = "sha1"
+hash = "4350959645a7c8a1f7758b50d3419ac0c3135d08"
 
 [update]
 [update.modrinth]

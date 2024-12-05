@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/51shyZVL/versions/3m5znPWm/moreculling-1.20.4-0.24.0.jar"
-hash-format = "sha256"
-hash = "def2462c60576d0bb8dbec51a101fe2909d4c5d343150d5e5105a56bbc6bbfd5"
+hash-format = "sha1"
+hash = "a40f2aa346140a4fee2079d845c62ee87454bdb6"
 
 [update]
 [update.modrinth]

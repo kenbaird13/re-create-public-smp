@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/11hKNQb2/versions/ZP30bOOo/EMIEnchants-fabric-1.19.3-1.20.4-1.0.0.jar"
-hash-format = "sha256"
-hash = "badacf19f4adf9e691bba2e685434c9051a88cf314c58941952403884fef1372"
+hash-format = "sha1"
+hash = "e4aa88c68e3fb8a02903109a1065cc733d5211cb"
 
 [update]
 [update.modrinth]

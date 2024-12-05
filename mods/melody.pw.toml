@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/CVT4pFB2/versions/2o0oW8Yv/melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar"
-hash-format = "sha256"
-hash = "3f7f5bab77a01a26af4702a70af5a7fd0a6f04f4fde51a4180113790e0c9e1e7"
+hash-format = "sha1"
+hash = "15eeff0c0fd8b4734492915c656077592b2d9e67"
 
 [update]
 [update.modrinth]

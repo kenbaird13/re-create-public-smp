@@ -5,8 +5,8 @@ pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/6e2SlzR4/versions/IpsO8SOJ/garnished-2.0.1%2B1.20.1-fabric.jar"
-hash-format = "sha256"
-hash = "874931306298eb158123b7b3218212bcd3217689352ea6de5ba1e2d8bfe2c4ef"
+hash-format = "sha1"
+hash = "e0e547002f99b3e38c7b75cc2899995b1f553500"
 
 [update]
 [update.modrinth]

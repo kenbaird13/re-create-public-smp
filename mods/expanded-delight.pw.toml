@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/e9V6wFcR/versions/4KEfJPHI/expandeddelight-0.3.2.jar"
-hash-format = "sha256"
-hash = "e743b6d9fb6f810ee5087db2365a81086f9ef2ac0f98eb15b69ec6558b7f8dd4"
+hash-format = "sha1"
+hash = "694a256f1dae0d70c352fe34c9ce6727c2ef37b3"
 
 [update]
 [update.modrinth]

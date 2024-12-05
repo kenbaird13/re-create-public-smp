@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/j2HhbEE7/versions/kWMqVWTm/emitrades-fabric-1.2.1%2Bmc1.20.1.jar"
-hash-format = "sha256"
-hash = "c3ffb1807446f3b44d18703a046cc30d09e3e79b1d09ab1b13edc69c3aa5dbd2"
+hash-format = "sha1"
+hash = "72b51627c09e539e9f6194fc5aad862ff5f09461"
 
 [update]
 [update.modrinth]

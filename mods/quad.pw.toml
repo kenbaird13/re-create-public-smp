@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/7jzrCiK0/versions/13NoFEPW/Quad-1.2.9%2B1.20.4-Fabric.jar"
-hash-format = "sha256"
-hash = "4d96e74c9008a49ab63da3086a32c111ced3a68b5db7bdfd15d5aa7f6507085c"
+hash-format = "sha1"
+hash = "ecc9c675b7bb2cc5cdcb658d81064d266b07f5aa"
 
 [update]
 [update.modrinth]

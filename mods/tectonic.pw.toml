@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/lWDHr9jE/versions/8JhzXwo0/tectonic-fabric-1.20.1-2.4.1b.jar"
-hash-format = "sha256"
-hash = "afe4940f4327fa27d2e6deb29b137bbeecc57ce5581407e98e1b74881fc2390d"
+hash-format = "sha1"
+hash = "d216978b144dd95b79176d3941ea85bf2bcc0db7"
 
 [update]
 [update.modrinth]

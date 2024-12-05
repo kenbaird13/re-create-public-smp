@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/2BwBOmBQ/versions/qJTsmyiE/YungsBetterEndIsland-1.20-Fabric-2.0.6.jar"
-hash-format = "sha256"
-hash = "8e6183a380c17677d23d5d7790d04bf18589ed12867460ece32327e8765046fa"
+hash-format = "sha1"
+hash = "169bc72b247240b79cad00751e2d5a2b7493a389"
 
 [update]
 [update.modrinth]

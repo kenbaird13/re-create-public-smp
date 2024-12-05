@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/PYQD8noM/versions/nfkUUMHq/majrusz-library-fabric-1.20.1-7.0.8.jar"
-hash-format = "sha256"
-hash = "fb9b86caa63c4d214eeb544eaf163f1d98efc14c6ff1576d53bac5890caef4db"
+hash-format = "sha1"
+hash = "d3f0b815441a140ea66569807d42e9fe58b4c8e0"
 
 [update]
 [update.modrinth]

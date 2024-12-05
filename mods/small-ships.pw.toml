@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/rGWEHQrP/versions/gpbYUuEr/smallships-fabric-1.20.1-2.0.0-b1.4.jar"
-hash-format = "sha256"
-hash = "dfbdebdd60809beeb2893902e8b30c806a164675066a56662e8640c3bbead2f8"
+hash-format = "sha1"
+hash = "6c12ee505822a6f28e4bd027c4107d59eaecbf2e"
 
 [update]
 [update.modrinth]

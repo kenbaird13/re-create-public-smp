@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/Q2OqKxDG/versions/aefjQSuD/BetterAdvancements-Fabric-1.20.1-0.4.2.10.jar"
-hash-format = "sha256"
-hash = "18138206487742a245b210217b7a53b7c5b738f30593a38a279e0d49dcc29c4c"
+hash-format = "sha1"
+hash = "86d52d0318185ff398d107e0d4470e3dc72fdeac"
 
 [update]
 [update.modrinth]

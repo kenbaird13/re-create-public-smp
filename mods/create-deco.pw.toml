@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/sMvUb4Rb/versions/GsxgfeNu/createdeco-2.0.2-1.20.1-fabric.jar"
-hash-format = "sha256"
-hash = "59fb9ce554bfdb43fdd24b6bd08ca5b930ce16a5fadc78df254d18b6ce3901f3"
+hash-format = "sha1"
+hash = "b7b525c64cde199d1ab12fee7f1171812a283646"
 
 [update]
 [update.modrinth]

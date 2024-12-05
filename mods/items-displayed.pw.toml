@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Guh4HXen/versions/Dy1u8PQC/ItemsDisplayed%20-%20v1.3-1.20.1.jar"
-hash-format = "sha256"
-hash = "83105330d6d38d07243cc39105e5f03be10fae558a40764441b4e818f83c87a7"
+hash-format = "sha1"
+hash = "21b496a2049c44b6fded4bf29480622b6798e548"
 
 [update]
 [update.modrinth]

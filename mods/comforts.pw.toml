@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/SaCpeal4/versions/pMr60Kkq/comforts-fabric-6.4.0%2B1.20.1.jar"
-hash-format = "sha256"
-hash = "f9852a749b5154cbb0e97651cd0a1718382fcdfebdea86813bb118b16ee1096b"
+hash-format = "sha1"
+hash = "96c1b52fa6dcff140b56e17ce980d2a5c528fad2"
 
 [update]
 [update.modrinth]

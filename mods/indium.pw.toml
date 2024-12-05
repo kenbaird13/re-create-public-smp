@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/Orvt0mRa/versions/gofbpynL/indium-1.0.34%2Bmc1.20.1.jar"
-hash-format = "sha256"
-hash = "33bdc7f01bdca61fd1d526e9e6ae1acdf107412ed0f6483da528d7eadc919059"
+hash-format = "sha1"
+hash = "a2de9ba15f155b09626995ad58b0e23803b05fe6"
 
 [update]
 [update.modrinth]

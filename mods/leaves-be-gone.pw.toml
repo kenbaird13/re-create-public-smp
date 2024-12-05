@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/AVq17PqV/versions/I6xyij66/LeavesBeGone-v8.0.0-1.20.1-Fabric.jar"
-hash-format = "sha256"
-hash = "e4cb58de102a4c9893fec5bf157e0ce3086a1f9ff182ddb40b0262eb7ead8c78"
+hash-format = "sha1"
+hash = "ba9bef859e585a25818c46113d3f33a42f0048a8"
 
 [update]
 [update.modrinth]

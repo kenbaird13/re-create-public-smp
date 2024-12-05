@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/x49wilh8/versions/6bv4ASFG/design_decor-0.4.0b_fabric%2B1.20.1.jar"
-hash-format = "sha256"
-hash = "a9683288d79d2052895c6fd64b3c715e1ce92b509f33e6bc5b288e8c4f51b2f8"
+hash-format = "sha1"
+hash = "6d3203e06128006c7c6222f3593648c4fd11d426"
 
 [update]
 [update.modrinth]

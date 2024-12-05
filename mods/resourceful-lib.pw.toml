@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/G1hIVOrD/versions/UOdaYbhh/resourcefullib-fabric-1.20.1-2.1.29.jar"
-hash-format = "sha256"
-hash = "2543d76f4f440d4401dccf7675f836381260919f0ac884e2696ae67e600adeeb"
+hash-format = "sha1"
+hash = "e1d85a3100c2f3683a65dca20518e3914d82b0f0"
 
 [update]
 [update.modrinth]

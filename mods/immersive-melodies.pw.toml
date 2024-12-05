@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/TaSmHw8V/versions/oVk9fOQD/immersive_melodies-0.3.0%2B1.20.1-fabric.jar"
-hash-format = "sha256"
-hash = "17614319862b32d247e9b4ff588f70db89423e74a579c06c4193bba40dd45073"
+hash-format = "sha1"
+hash = "013bf2b412e06b8492feead8bc280a151dc949ce"
 
 [update]
 [update.modrinth]

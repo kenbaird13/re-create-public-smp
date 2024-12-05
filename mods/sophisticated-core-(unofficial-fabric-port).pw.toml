@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/9jxwkYQL/versions/ZmzTMNos/sophisticatedcore-1.20.1-0.6.35.49.jar"
-hash-format = "sha256"
-hash = "01f0dfd6c611a7db2f19dffd5c0eb6a262895f7cd184748957fcfb1e67a39956"
+hash-format = "sha1"
+hash = "a8b2eea6365300e875091c759631d970f84df41c"
 
 [update]
 [update.modrinth]

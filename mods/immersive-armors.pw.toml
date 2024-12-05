@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/eE2Db4YU/versions/Waf0D48D/immersive_armors-1.6.1%2B1.20.1-fabric.jar"
-hash-format = "sha256"
-hash = "41259c8aaf2d284e51893ad32bbd6eddb718c3661d50d82dddc250833177738f"
+hash-format = "sha1"
+hash = "6eb2b500754a7cec6628e1c16bbedbcaf90cae13"
 
 [update]
 [update.modrinth]

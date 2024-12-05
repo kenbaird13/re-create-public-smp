@@ -3,8 +3,8 @@ filename = "cupboard-fabric-1.20.1-2.7.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "3ce1eba640c2f7e28c7b769255996f19d9776ab8add481caa84a24dabe0c80a5"
+hash-format = "sha1"
+hash = "33f853230169b03d896775cbc663e016975702d2"
 mode = "metadata:curseforge"
 
 [update]

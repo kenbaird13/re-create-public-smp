@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/Gi02250Z/versions/QM6nx1Sa/almanac-1.20.x-fabric-1.0.2.jar"
-hash-format = "sha256"
-hash = "2c0ea8c3f9f7ca0b4a1d93328ecb26b1bfa00cf33d09d0089d197b707bf97a73"
+hash-format = "sha1"
+hash = "0f31abe886e9785592f1896c7c1ffe5992e2c6de"
 
 [update]
 [update.modrinth]

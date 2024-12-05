@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/RSeLon5O/versions/ryjPL8AJ/particle_core-0.2.5%2B1.20.1.jar"
-hash-format = "sha256"
-hash = "3de0ee155db56f056515528ba97381b00e39248dc33e098a56ae4657b5f5249a"
+hash-format = "sha1"
+hash = "e8a73db5df138d76aaa71b77906ea51a33416f91"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/UbFnAd4l/versions/8uCe6WkD/create_jetpack-fabric-4.2.1.jar"
-hash-format = "sha256"
-hash = "08047cb592e305b1dd1f78e78de6c7c6ddf1cc25b919fda7055571240b88b7aa"
+hash-format = "sha512"
+hash = "c3e62854591196ba225c57fe5a24a4ae50389c3f8bfb928f18a8235d954624f028d3707acb4299e4c9e41378afa582b305d38105d7946f0b91f0440bbd26d1ae"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/O6Sh7btX/versions/jeoBVRvR/grabbymobs-1.20.1-1.6.jar"
-hash-format = "sha256"
-hash = "2c9f8ae1a0df588cc207e1d75a654929fff12437246a95bd98d45f22bd349e56"
+hash-format = "sha1"
+hash = "e72f81403fe5197ce2583d43a01f7b77636d8381"
 
 [update]
 [update.modrinth]
