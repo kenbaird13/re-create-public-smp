@@ -5,6 +5,10 @@ file = "config/bclib/client.json"
 hash = "63a42c086b9ee3362275d723b30e7947e14867a4647107a8157cb7b52a1fe913"
 
 [[files]]
+file = "mods/recipies_s_s_s-1.0.0-fabric-1.20.1.jar"
+hash = "f5f4bc7bae26666ca54b50f9eb118f3027b556adb6d8f671e980d9718e9346df"
+
+[[files]]
 file = "config/defaultoptions/keybindings.txt"
 hash = "ca8e1c8ec5df6a1a288f1a1248cabd195f115b7b58ae3dddd7619c439a11dbca"
 
@@ -708,11 +712,6 @@ metafile = true
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "0f9916dcded3aac68d56113e9617bbe3db5ec9036bd9bba784bc40a961b0c9f0"
 metafile = true
-
-[[files]]
-file = "mods/recipies_s_s_s-1.0.0-fabric-1.20.1.jar"
-hash = "f5f4bc7bae26666ca54b50f9eb118f3027b556adb6d8f671e980d9718e9346df"
-
 
 [[files]]
 file = "mods/replanter.pw.toml"
