@@ -3,8 +3,8 @@ filename = "liquidburner-fabric-1.20.1-0.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "8dfb10a308965203100600e67e11320797f77d0c"
+hash-format = "sha256"
+hash = "868cc707a5fd4ed44b4ddc5a88c25057e0646abf45f2ba05458fb5d977997558"
 mode = "metadata:curseforge"
 
 [update]

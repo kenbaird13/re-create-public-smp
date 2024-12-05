@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/5IIKsxiL/versions/9STihLXt/ExtremeSoundMuffler-3.48-fabric-1.20.1.jar"
-hash-format = "sha1"
-hash = "c4b8f8979865df9efa31d07dded8d7ca772e4ad5"
+hash-format = "sha256"
+hash = "e785dacfd8fdd87afa569f41de979775708fa1571c9b3fece86f1c3d9b5fafac"
 
 [update]
 [update.modrinth]

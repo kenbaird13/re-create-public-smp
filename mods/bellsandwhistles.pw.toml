@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/gJ5afkVv/versions/m0GUubvz/bellsandwhistles-0.4.5%2B1.20.1-FABRIC.jar"
-hash-format = "sha1"
-hash = "70e97c2ff786b8df7f354a37442ae36f4df35dc3"
+hash-format = "sha256"
+hash = "9071ede319e8389428773faf537fdfeea1b94f0e1efe3e6317a3a283f50546ff"
 
 [update]
 [update.modrinth]

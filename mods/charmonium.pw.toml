@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/bpii4Xsa/versions/zGytYDIS/charmonium-fabric-1.20.1-6.0.7.jar"
-hash-format = "sha1"
-hash = "7638cded163f55eba8c5cf3e5be55791ef594595"
+hash-format = "sha256"
+hash = "0fdb2abd3191fe73e330fcde27fd7849d953ca2f003c2f20f85b91cf141104a4"
 
 [update]
 [update.modrinth]

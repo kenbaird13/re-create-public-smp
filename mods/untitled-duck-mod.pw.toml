@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/ojFjz7JF/versions/U3NPszvR/untitledduckmod-0.7.0-fabric-1.20.1.jar"
-hash-format = "sha1"
-hash = "fba7283d464a9d24a9929d3a98f8c55fa2255d9a"
+hash-format = "sha256"
+hash = "1713ef2437ae7401c1558784f89a42973ee085295a3eb9895b92ec1cace9374a"
 
 [update]
 [update.modrinth]

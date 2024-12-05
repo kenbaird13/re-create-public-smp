@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/5GZUvxmB/versions/oHKb9m3d/expanded-bow-enchanting-1.0.0.jar"
-hash-format = "sha1"
-hash = "a586f0d452115836021d327200ccc3818b69a7b5"
+hash-format = "sha256"
+hash = "5f0ca9353023289c53d008b574ce958d9883b7df9bcb456b207410ce764fbf5c"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/5srFLIaK/versions/YbafyWAu/better-clouds-1.3.22%2B1.20.1-fabric.jar"
-hash-format = "sha1"
-hash = "321ee68b06fad6fea17a1fad6b5aac151bc81391"
+hash-format = "sha256"
+hash = "e7026ca9d2064e3e499cb62afe06aa0555c436d9f9e0dc1887e6d61aa4788100"
 
 [update]
 [update.modrinth]

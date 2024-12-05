@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/cpqKG67r/versions/mHecdqqF/pattern_schematics-1.1.15%2Bfabric-1.20.1.jar"
-hash-format = "sha1"
-hash = "b85632abbcd2449166ed68a42bd0252908d67fa2"
+hash-format = "sha256"
+hash = "21389dd59ad70cdefd2076943044f2a62470ccea77a20ddc8f9ce62eb5d2d2b9"
 
 [update]
 [update.modrinth]

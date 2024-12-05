@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/ccKDOlHs/versions/zyOBB7J4/owo-lib-0.11.2%2B1.20.jar"
-hash-format = "sha1"
-hash = "be88938ca5df78271e64bc9f85c3575754f33e2a"
+hash-format = "sha256"
+hash = "1c249c30d3e50bba5cb35e0c3acebf4bd5f969bd33402de2f3a6a619fd688d12"
 
 [update]
 [update.modrinth]

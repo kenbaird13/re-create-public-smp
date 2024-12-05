@@ -3,8 +3,8 @@ filename = "fabric-language-kotlin-1.12.3+kotlin.2.0.21.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "54cd3900a904b81bd24c4a35b6577a2ac197b51a"
+hash-format = "sha256"
+hash = "87737ead3546a4f09c80ffa45d786cce2f3a49650ad9386c1a5a0439b0467f8a"
 mode = "metadata:curseforge"
 
 [update]

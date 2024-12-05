@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/DlcfxdlN/versions/PsRaK3Nh/better-end-cities-better-end-1.0.0.jar"
-hash-format = "sha1"
-hash = "5f022b3aa1affb719c8425ad67f8359232b7ad08"
+hash-format = "sha256"
+hash = "ac4e5bfe6fa4b2a5f7056663096850aa8241a21bbec43a4a2d0cfb213089a0ee"
 
 [update]
 [update.modrinth]

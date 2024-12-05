@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Xbc0uyRg/versions/h2HgGyvA/create-fabric-0.5.1-f-build.1417%2Bmc1.20.1.jar"
-hash-format = "sha1"
-hash = "dc5c230e3b293092b457200883398225fffab597"
+hash-format = "sha256"
+hash = "11a850d3689b4771d5fa705ffa7dd711827c69b71082956597e5d051471cc1ee"
 
 [update]
 [update.modrinth]

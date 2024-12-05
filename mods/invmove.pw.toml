@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/REfW2AEX/versions/W5h8ZaUy/InvMove-1.20-0.8.4-Fabric.jar"
-hash-format = "sha1"
-hash = "8151113885920d2d67609dfa8e2fc7ac70a807d8"
+hash-format = "sha256"
+hash = "391535a629cd2f114dbebc142d923b065357c62caa5e946c326c3a3a8d7730e2"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/3BeIrqZR/versions/OdNHB7Bh/Origins-1.20.1-1.10.0.jar"
-hash-format = "sha512"
-hash = "4d1807f0b37699a80b7371c1304075fdaddabe4ff1717ea739e7ba6a9df4bfd6986920f8e33417d7d1e5155e0bc2ab2ec7706405d9c4c55092ebb3c63eb3b88c"
+hash-format = "sha256"
+hash = "c022f72118f6fc26ce2888ba4d09f11b303b1c586a4fa565e7292ebf3b838adb"
 
 [update]
 [update.modrinth]

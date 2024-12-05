@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/fuuu3xnx/versions/eh4IBlu2/Searchables-fabric-1.20.1-1.0.3.jar"
-hash-format = "sha1"
-hash = "d7cbd06088a90f8adfd4bb9a99d1c256bcdf22a1"
+hash-format = "sha256"
+hash = "f32e0b0c9bebc99944ddc6a9dba8f8336af666aaba151c6839b8353a2acdd53a"
 
 [update]
 [update.modrinth]

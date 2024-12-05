@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Jdbbtt0i/versions/3yGXOGxY/CreateNumismatics-1.0.7%2Bfabric-mc1.20.1.jar"
-hash-format = "sha1"
-hash = "3808e953de97331bb6fb24d71d7f6a2917e82268"
+hash-format = "sha256"
+hash = "becb71f2b197fd8b12dff7e521b632d7c4a97d31b255c88c167532b4969c6b44"
 
 [update]
 [update.modrinth]

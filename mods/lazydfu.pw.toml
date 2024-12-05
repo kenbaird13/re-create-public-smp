@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/hvFnDODi/versions/0.1.3/lazydfu-0.1.3.jar"
-hash-format = "sha1"
-hash = "0dfa8b03ed408fb7fdada29e01cfebba02af1049"
+hash-format = "sha256"
+hash = "4f3b77273b57d019a8db58371e63e4426557c1bb7c9cc10536a03972122778c8"
 
 [update]
 [update.modrinth]

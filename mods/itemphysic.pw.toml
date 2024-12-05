@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/aT8BzaOj/versions/fiMNk48q/ItemPhysic_FABRIC_v1.8.2_mc1.20.1.jar"
-hash-format = "sha1"
-hash = "5feddb8da4a1d35336224bf4fadbdc6272d09655"
+hash-format = "sha256"
+hash = "1cf989eaee8ac5c9bb438fa70de71a25bef724826f96e2e8e244115828c1f244"
 
 [update]
 [update.modrinth]

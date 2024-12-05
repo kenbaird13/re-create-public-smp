@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/VoNSGQHx/versions/cZu9D08P/EasyItemList-0.1.3-1.20.1.jar"
-hash-format = "sha1"
-hash = "5dad96e827593d0e32f396f8f59d4058fcafc9c1"
+hash-format = "sha256"
+hash = "a84a9839ff75774fee65f05feef30b9b136f943ca3ffdc92c281667e7fa2af61"
 
 [update]
 [update.modrinth]

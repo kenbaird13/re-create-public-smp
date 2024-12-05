@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/qpPoAL6m/versions/Jd71Afpm/trade-cycling-fabric-1.20.1-1.0.15.jar"
-hash-format = "sha1"
-hash = "06dc51cbec302528815172036b938770144bf14c"
+hash-format = "sha256"
+hash = "063558393898a4e7394489b2ca5d6db05e8880f09dac8e9ce4ccf769864be57c"
 
 [update]
 [update.modrinth]

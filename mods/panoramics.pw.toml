@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/kXUIkrD8/versions/GgfP4OOZ/panoramics-1.0.1.jar"
-hash-format = "sha1"
-hash = "c0e12d2ec53fc48ef25a40189ae980841cc5f0ea"
+hash-format = "sha256"
+hash = "dfc46e28f492d94fe7c0700b3c7246bedc6c5e297f4ed42275fdf1b59bd1e8ca"
 
 [update]
 [update.modrinth]

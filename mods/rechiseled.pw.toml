@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/B0g2vT6l/versions/UG6Mfv39/rechiseled-1.1.6-fabric-mc1.20.jar"
-hash-format = "sha1"
-hash = "41b47ec0256e9871f150518a9c60344a2c7482fd"
+hash-format = "sha256"
+hash = "d79bebeab019619089a6d97d4ef3c6db92c85df8016b2d5b7892d783d41c51c6"
 
 [update]
 [update.modrinth]

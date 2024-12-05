@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/bRFWnJ87/versions/WkJeqkhZ/animal_feeding_trough-1.1.0%2B1.20.1.jar"
-hash-format = "sha1"
-hash = "48a06994464e0e9e1751676de15b2eecccfd8ad4"
+hash-format = "sha256"
+hash = "4c39afc711918fae23ea46cb5c71c08d08ccabcba88b4ce7aba9d614c4ed5146"
 
 [update]
 [update.modrinth]

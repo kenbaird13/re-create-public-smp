@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/ZzjhlDgM/versions/AJ3IGl3n/Steam_Rails-1.6.4%2Bfabric-mc1.20.1.jar"
-hash-format = "sha1"
-hash = "6aebceb3b11005d9cf7255f26344e1c3a635c91c"
+hash-format = "sha256"
+hash = "1b537079449da8384e5f124e17ec823295f21893e0dba1932b89d980e53e41bd"
 
 [update]
 [update.modrinth]

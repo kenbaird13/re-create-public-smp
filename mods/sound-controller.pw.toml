@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/uY9zbflw/versions/zY1VNCqT/soundcontroller-1.0.0.jar"
-hash-format = "sha1"
-hash = "80c14f105a011ddaf66573fea8b487ae8e1902ee"
+hash-format = "sha256"
+hash = "8e3ce69b77ba666ed360765662b9f1dd3546001379b69281a51fe0b47f999e84"
 
 [update]
 [update.modrinth]

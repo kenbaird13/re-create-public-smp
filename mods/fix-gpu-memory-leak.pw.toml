@@ -3,8 +3,8 @@ filename = "gpumemleakfix-fabric-1.20.1-1.8.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f3cda542199d4344c317c464256a2a499a596431"
+hash-format = "sha256"
+hash = "7f84fd5752533f2ccc2ad62a746b7e5e18baf2f7e7f141e1281dae94e1a9a8f8"
 mode = "metadata:curseforge"
 
 [update]

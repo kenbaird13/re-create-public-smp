@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/NRjRiSSD/versions/5xvCCRjJ/memoryleakfix-fabric-1.17%2B-1.1.5.jar"
-hash-format = "sha1"
-hash = "784bbbe9c64ac9d3d4ad19786c02291e607fcf4e"
+hash-format = "sha256"
+hash = "b8ac33d7262e019710dd25e454116616bc9ed1f714ed910594b28a4c1da5adde"
 
 [update]
 [update.modrinth]

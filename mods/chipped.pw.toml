@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/BAscRYKm/versions/pwyEaKDs/chipped-fabric-1.20.1-3.0.7.jar"
-hash-format = "sha1"
-hash = "add35e79f6a930825e4dbe77d5d0468fb96c533f"
+hash-format = "sha256"
+hash = "b1af1f1a653a65b200c5fd547c59a97e176f6d5b2e41519596f7a30394d4f330"
 
 [update]
 [update.modrinth]

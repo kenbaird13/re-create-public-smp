@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/JmybsfWs/versions/Knv9sBsR/create_dd-0.1d.jar"
-hash-format = "sha1"
-hash = "09de8b59aaeca8d3fe5c0b684c667c77b9818ae2"
+hash-format = "sha256"
+hash = "56dabaca5fb22386a06020401c95041a4b0229ac9256da29629cf4086804fa8c"
 
 [update]
 [update.modrinth]
