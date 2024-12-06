@@ -5,11 +5,6 @@ file = "config/bclib/client.json"
 hash = "63a42c086b9ee3362275d723b30e7947e14867a4647107a8157cb7b52a1fe913"
 
 [[files]]
-file = "mods/recipies_s_s_s-1.0.0-fabric-1.20.1.jar"
-hash = "F5F4BC7BAE26666CA54B50F9EB118F3027B556ADB6D8F671E980D9718E9346DF"
-metafile = false
-
-[[files]]
 file = "config/defaultoptions/keybindings.txt"
 hash = "ca8e1c8ec5df6a1a288f1a1248cabd195f115b7b58ae3dddd7619c439a11dbca"
 
@@ -436,7 +431,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "987c02c2f31875d512336cccc2f5a9d8bbbb60337a9256fd632f6de25a3c3d62"
+hash = "3d0bf4d56ea941f856200934fdc2fb4952fe513d469f47bdb5fc586f99f16097"
 metafile = true
 
 [[files]]
@@ -710,6 +705,10 @@ hash = "a8e48a0dadfaa8492f5e46ed3555dcaa2f6cb15bf7b7819fef018ec3e60d3706"
 metafile = true
 
 [[files]]
+file = "mods/recipies_s_s_s-1.0.0-fabric-1.20.1.jar"
+hash = "f5f4bc7bae26666ca54b50f9eb118f3027b556adb6d8f671e980d9718e9346df"
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "0f9916dcded3aac68d56113e9617bbe3db5ec9036bd9bba784bc40a961b0c9f0"
 metafile = true
@@ -747,6 +746,11 @@ metafile = true
 [[files]]
 file = "mods/simply-swords.pw.toml"
 hash = "53756963029d3281ce1001a6129367541d2e092b34a4bb1cafeff77f3ec28902"
+metafile = true
+
+[[files]]
+file = "mods/slice-and-dice.pw.toml"
+hash = "47493d398295964924d386d0fb866dac1a2d5e0cd4692b8436ea2552ce6c99f6"
 metafile = true
 
 [[files]]
@@ -867,6 +871,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "c9c7de97a085db8491f23e01c18300613295bf6da75f7868db3336ea8b93108f"
+metafile = true
+
+[[files]]
+file = "mods/yigd.pw.toml"
+hash = "03fe4934f0517438ee280ac5674f113dc5b0b40d667f98a68084a3f91f6e0af4"
 metafile = true
 
 [[files]]
